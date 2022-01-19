@@ -1,6 +1,9 @@
-# Creativity doesn't happen spontaneously, is the result of hard work and constant learning.
 
 ![](images/brainx.jpg)
+
+### Creativity doesn't happen spontaneously, is the result of hard work and constant learning.
+
+🐱‍👤😼🐈
 
 <!--
 **emarfer/emarfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
