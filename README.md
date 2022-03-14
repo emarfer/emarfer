@@ -1,7 +1,7 @@
 
 ![](images/brainx.jpg)
 
-### <span style="font-family:Papyrus; font-size:4em;">Creativity doesn't happen spontaneously, is the result of hard work and constant learning.</span>
+<span style="font-family:Papyrus; font-size:4em;">Creativity doesn't happen spontaneously, is the result of hard work and constant learning.</span>
 
 🐱‍👤😼🐈
 
