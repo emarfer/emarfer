@@ -1,7 +1,7 @@
 
 ![](images/brainx.jpg)
 
-## <center>**Creativity** doesn't happen spontaneously, is the result of hard work and constant learning.</center>
+## <p align="center">**Creativity** doesn't happen spontaneously, is the result of hard work and constant learning.</p>
 
 <br/>
 
