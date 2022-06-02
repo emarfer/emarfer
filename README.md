@@ -1,7 +1,7 @@
 
 ![](images/brainx.jpg)
 
-## Creativity doesn't happen spontaneously, is the result of hard work and constant learning.
+### **Creativity** doesn't happen spontaneously, is the result of hard work and constant learning.
 
 🐱‍👤😼🐈
 
@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently looking for a job as data analyst ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
