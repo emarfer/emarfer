@@ -11,14 +11,14 @@
 - 🔍 I’m currently looking for a job as a data analyst
 - 👩🏽‍🎓 I’m learning Data Engineer with Python @ [DATACAMP](https://www.datacamp.com/)
 - 💌 How to reach me: estermarfer@gmail.com
-- 🎶 I’m looking to collaborate on any project about music 
+- 🎶📚 I’m looking to collaborate on any project about music or books
 - 🌿 I used to work in an amazing bookstore in Móstoles: [KOMOREBI](https://www.instagram.com/libreriakomorebi/)
 - ✍🏽 I love reading & writting. You can find my creations in my blog [Poniendo fin a todos mis principios](http://estersinatxe.blogspot.com/) (only in spanish)
 - 🐱‍👤😼🐈 I live with 3 amazing cats
 
 
-
 <br/>
+
 
 
 <H1> ¿How I got here?</H1>
